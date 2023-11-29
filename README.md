@@ -15,7 +15,7 @@ This repository hosts the code for my project on detecting cardiovascular diseas
 
 - Segmentation: The project starts with the SpringerSegmentationCode for initial PCG signal segmentation, establishing a clean and structured dataset.
 - Feature Extraction: Multiple signal features are extracted, including time-domain, frequency-domain, and cepstral features (MFCCs), to encapsulate the complexity of PCG signals.
-- Machine Learning Models: Implements diverse machine learning models like LSTM, ResNet50, and GoogleNet, chosen for their ability to capture temporal and spatial dependencies in sequential data.
+- Machine Learning Models: Implements diverse machine learning models like LSTM (Transfer Learning), Neural Networks, Support Vector Machines, Random Forests, K-Nearest Neighbour, Logstic Regressions, and Decision Trees.
 - Data Augmentation: To combat overfitting and improve model robustness, data augmentation techniques are applied, increasing the variability and quantity of training data.
 
 ## Results:
